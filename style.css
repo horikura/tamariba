@@ -1,0 +1,59 @@
+.top{
+    display: flex;
+    background-color: purple;
+    color: yellow;
+}
+
+.menu{
+    display: flex;
+    text-align: right;
+    width: max-content;
+    margin: 8px;
+}
+
+.dai{
+    margin: 8px;
+    display: flex;
+}
+
+.big-text{
+    padding: 8px;
+    width: max-content;
+}
+
+.small-text{
+    padding: 16px;
+    width: max-content;
+}
+
+.space{
+    width: 100%;
+}
+
+.menu-1{
+    padding: 16px;
+    width: max-content;
+}
+
+.menu-2{
+    padding: 16px;
+    width: max-content;
+}
+
+.menu a{
+    text-decoration: none;
+    color: yellow;
+}
+
+.bottom{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 16px;
+}
+
+.all-content{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 16px;
+}
